@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GrappleProject",
+			"Path": "E:\\Unreal Projects\\3.GrappleProjectAfterTesting\\Source\\GrappleProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GrappleProjectEditor",
+			"Path": "E:\\Unreal Projects\\3.GrappleProjectAfterTesting\\Source\\GrappleProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal Projects\\3.GrappleProjectAfterTesting\\Source\\GrappleProject\\GrappleProject.Build.cs",
+		"E:\\Unreal Projects\\3.GrappleProjectAfterTesting\\Source\\GrappleProject.Target.cs",
+		"E:\\Unreal Projects\\3.GrappleProjectAfterTesting\\Source\\GrappleProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

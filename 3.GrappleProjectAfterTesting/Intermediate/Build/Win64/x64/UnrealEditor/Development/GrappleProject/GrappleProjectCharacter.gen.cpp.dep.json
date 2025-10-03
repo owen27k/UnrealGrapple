@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\3.grappleprojectaftertesting\\intermediate\\build\\win64\\unrealeditor\\inc\\grappleproject\\uht\\grappleprojectcharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\3.grappleprojectaftertesting\\intermediate\\build\\win64\\x64\\grappleprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\3.grappleprojectaftertesting\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\grappleproject\\definitions.grappleproject.h",
+            "e:\\unreal projects\\3.grappleprojectaftertesting\\source\\grappleproject\\grappleprojectcharacter.h",
+            "d:\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\epic games\\ue_5.2\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\epic games\\ue_5.2\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "d:\\epic games\\ue_5.2\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "d:\\epic games\\ue_5.2\\engine\\plugins\\runtime\\cablecomponent\\source\\cablecomponent\\classes\\cablecomponent.h",
+            "d:\\epic games\\ue_5.2\\engine\\plugins\\runtime\\cablecomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\cablecomponent\\uht\\cablecomponent.generated.h",
+            "e:\\unreal projects\\3.grappleprojectaftertesting\\intermediate\\build\\win64\\unrealeditor\\inc\\grappleproject\\uht\\grappleprojectcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
